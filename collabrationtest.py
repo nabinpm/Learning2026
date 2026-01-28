@@ -1,0 +1,1 @@
+print("This is collabaration practice class for git")
