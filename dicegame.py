@@ -1,1 +1,1 @@
-print("This is Diiiiiiceeee game test")
+print("This is Dice game test corrected by aakash ")
